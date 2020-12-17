@@ -12,6 +12,7 @@ namespace SampleJenkinProject
         {
 
             Console.WriteLine("Hi there");
+             Console.WriteLine("Hi there")
         }
     }
 }
